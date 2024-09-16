@@ -23,7 +23,7 @@ const Navbar = () => {
           </div>
           <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-between">
             <div className="flex-shrink-0">
-              <a href="/" className="text-2xl font-semibold font-serif">CutomCliq</a>
+              <a href="/" className="text-2xl font-semibold font-serif">CustomCliq</a>
             </div>
             <div className="md:flex max-md:hidden space-x-4">
               <div className="flex space-x-4">
